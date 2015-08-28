@@ -1,0 +1,13 @@
+# Site settings
+title: matt kaniaris.com
+email:
+description: > # this means to ignore newlines until "baseurl:"
+  I hope to one day write about things like software, music, food, climbing, and maybe a bit of fiction.
+  I currently work at [floobits](floobits.com) and live in San Francisco.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kaniris.com" # the base hostname & protocol for your site
+twitter_username:
+github_username:  kans
+
+# Build settings
+markdown: kramdown
